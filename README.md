@@ -1,0 +1,4 @@
+autoart
+=======
+
+Automatically generated art
